@@ -1,6 +1,2 @@
 FROM
 RUN
-ADD
-CMD
-WORKDIR
-
