@@ -1,0 +1,7 @@
+validate 
+compile
+test 
+package
+test
+install 
+deploy
