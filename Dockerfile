@@ -1,4 +1,2 @@
-FROM:
-RUN:
-ADD:
-CMD:
+FROM
+RUN

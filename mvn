@@ -5,3 +5,6 @@ package
 test
 install 
 deploy
+
+
+these are all the steps that maven follows to build a code.
